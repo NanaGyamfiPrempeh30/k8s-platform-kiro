@@ -72,6 +72,13 @@ inclusion: always
 - **GitHub Actions** for CI pipelines
 - **GitHub** as the Git hosting platform and container registry (ghcr.io)
 
+## Code Formatting
+
+- **Indentation:** 3 spaces (not 2 or 4)
+- **Line endings:** LF (Unix-style)
+- **Trailing whitespace:** Remove on save
+- **Final newline:** Always include
+
 ## Shell Scripting
 
 - All automation scripts in **Bash** (POSIX-compatible where possible)
